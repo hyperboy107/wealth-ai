@@ -5,7 +5,7 @@
   &nbsp;
   <img src="https://shadcn.dev/logo.png" alt="Shadcn UI" width="40" height="40"/>
   &nbsp;
-  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="Supabase" width="40" height="40"/>
   &nbsp;
   <img src="https://avatars.githubusercontent.com/u/149855157?s=200&v=4" alt="Arcjet" width="40" height="40"/>
   &nbsp;
@@ -13,7 +13,7 @@
   &nbsp;
   <img src="https://www.gstatic.com/lamda/images/gemini-favicon-180.png" alt="Gemini AI" width="40" height="40"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="Tailwind CSS" width="40" height="40"/>
   &nbsp;
   <img src="https://inngest.com/favicon-32x32.png" alt="Inngest" width="40" height="40"/>
 </p>
