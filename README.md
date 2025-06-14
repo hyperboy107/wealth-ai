@@ -34,3 +34,25 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+🍎🍎🍎🍎🍎Installation🍎🍎🍎🍎
+
+➡️ npx shadcn@latest init 
+npx shadcn@latest add badge card calendar button checkbox drawer dropdown-menu input popover progress select switch table tooltip sonner table
+npm install @clerk/nextjs --legacy-peer-deps
+npm i @arcjet/next --legacy-peer-deps
+npx inngest-cli@latest dev
+npm i -D prisma --legacy-peer-deps
+npx prisma init
+npx prisma migrate dev --name craete-models
+npm i @prisma/client --legacy-peer-deps
+npm i react-spinners --legacy-peer-deps
+npm i react-hook-form zod @hookform/resolvers --legacy-peer-deps
+npm i date-fns --legacy-peer-deps
+npm i recharts --legacy-peer-deps
+npm install react-email -D -E --legacy-peer-deps
+npm install @react-email/components --legacy-peer-deps
+npm install resend --legacy-peer-deps
+npm install @google/generative-ai --legacy-peer-deps
