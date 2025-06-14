@@ -1,3 +1,30 @@
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  &nbsp;
+  <img src="https://shadcn.dev/logo.png" alt="Shadcn UI" width="40" height="40"/>
+  &nbsp;
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="40" height="40"/>
+  &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/149855157?s=200&v=4" alt="Arcjet" width="40" height="40"/>
+  &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/60826577?s=200&v=4" alt="Clerk" width="40" height="40"/>
+  &nbsp;
+  <img src="https://www.gstatic.com/lamda/images/gemini-favicon-180.png" alt="Gemini AI" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  &nbsp;
+  <img src="https://inngest.com/favicon-32x32.png" alt="Inngest" width="40" height="40"/>
+</p>
+
+
+![Screenshot 2025-06-14 043111](https://github.com/user-attachments/assets/6dcd75a5-4dfb-4a41-8714-106e7c0cb6b3)
+
+![Screenshot 2025-06-14 065218](https://github.com/user-attachments/assets/710b266c-ba5a-4396-b00c-1d4451576fc8)
+
+![Screenshot 2025-06-14 065234](https://github.com/user-attachments/assets/1275c771-4dd0-4031-a272-5522daee06b4)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
