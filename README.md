@@ -1,4 +1,4 @@
-## 🚀 Tech Stack Usedd
+## 🚀 Tech Stack Used:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
